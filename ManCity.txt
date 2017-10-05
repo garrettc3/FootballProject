@@ -1,0 +1,25 @@
+1,'Claudio','Bravo','GK','ManCity','Chile','13-4-1983','S16',2014,0,0
+2,'Kyle','Walker','RB','ManCity','England','28-05-1990','S17',494,0,2
+3,'Danilo','da Silva','RB','ManCity','Brazil','15-07-1991','S17',335,0,1
+4,'Vincent','Kompany','CB','ManCity','Belgium','10-04-1986','S08',4306,5,0
+5,'John','Stones','CB','ManCity','England','28-05-1994','S16',2509,0,1
+7,'Raheem','Sterling','RW','ManCity','England','8-12-1994','S15',4833,18,8
+8,'Ilkay','Guendogan','CM','ManCity','Germany','24-10-1990','S16',740,3,1
+10,'Sergio','Aguero','ST','ManCity','Argentina','2-6-1988','S11',7789,76,16
+15,'Eliaquim','Mangala','CB','ManCity','France','13-2-1991','S14',4219,0,2
+17,'Kevin','de Bruyne','CM','ManCity','Belgium','28-6-1991','S15',5495,14,30
+18,'Fabian','Delph','CM','ManCity','England','11-21-1989','S15',1186,4,0
+19,'Leroy','Sane','LW','ManCity','Germany','1-11-96','S16',2106,8,5
+20,'Bernardo','Silva','CM','ManCity','Portugal','10-8-1994','S17',162,0,0
+21,'Silva','David','CM','ManCity','Spain','8-1-1996','S10',7835,18,31
+22,'Benjamin','Mendy','LB','ManCity','France','17-7-1994','S17',299,0,1
+24,'Tosin','Adarabioyo','CB','ManCity','England','24-9-1997','W16',0,0,0
+25,'Fernandinho','Roza','CM','ManCity','Brazil','4-5-1985','S13',8390,7,6
+30,'Nicolas','Otamendi','CB','ManCity','Argentina','12-2-1988','S15',5875,3,1
+31,'Ederson','Moraes','GK','ManCity','Brazil','17-8-1993','S17',586,0,0
+33,'Gabriel','Jesus','ST','ManCity','Brazil','3-4-1997','W17',1069,11,5
+35,'Oleksandr','Zinchenko','CAM','ManCity','Ukraine','15-12-1996','S17',0,0,0
+42,'Yaya','Toure','CM','ManCity','Ivory Coast','13-5-1983','S10',6639,21,6
+47,'Phil','Foden','CM','ManCity','England','28-5-2000','S17',0,0,0
+55,'Brahim','Diaz','CAM','ManCity','Spain','3-8-1999','S17',0,0,0
+79,'Daniel','Grimshaw','GK','ManCity','England','16-1-1998','S17',0,0,0
